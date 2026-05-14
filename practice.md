@@ -36,5 +36,5 @@ false
 
 ## Key things I learned
 
-- `const` must be initialized when declared
+- `const` must be initialized when declared.
 - Use `const` by default; only switch to `let` when the value needs to change
