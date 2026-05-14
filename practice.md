@@ -1,4 +1,4 @@
-# JavaScript Basics - Lecture 1 Notes
+# JavaScript Basics Lecture 1 Notes
 
 In JavaScript, you should default to `const` and only switch to `let` when
 the value needs to change. This helps prevent accidental reassignment and
